@@ -199,4 +199,5 @@
 --resource:"E:\MyFirCorPro\MyFirCorPro.Web\obj\Debug\netcoreapp1.0\MyFirCorPro.Webdotnet-compile.deps.json",MyFirCorPro.Web.deps.json
 E:\MyFirCorPro\MyFirCorPro.Web\Program.cs
 E:\MyFirCorPro\MyFirCorPro.Web\Startup.cs
+E:\MyFirCorPro\MyFirCorPro.Web\Controllers\CategoryController.cs
 E:\MyFirCorPro\MyFirCorPro.Web\Controllers\HomeController.cs
