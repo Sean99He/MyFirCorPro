@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyFirCorPro.Base/bin/Debug/netstandard1.6/MyFirCorPro.DataLibrary.pdb
