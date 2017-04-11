@@ -3,3 +3,14 @@
 ################################################################################
 
 /MyFirCorPro.Base/bin/Debug/netstandard1.6/MyFirCorPro.DataLibrary.pdb
+/MyFirCorPro.Base/bin/Debug/netstandard1.6/MyFirCorPro.DataLibrary.dll
+/MyFirCorPro.Base/bin/Debug/netstandard1.6/MyFirCorPro.Base.pdb
+/MyFirCorPro.Base/bin/Debug/netstandard1.6/MyFirCorPro.Base.dll
+/MyFirCorPro.DataLibrary/bin/Debug/netstandard1.6/MyFirCorPro.DataLibrary.pdb
+/MyFirCorPro.DataLibrary/bin/Debug/netstandard1.6/MyFirCorPro.DataLibrary.dll
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.Web.pdb
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.Web.dll
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.DataLibrary.pdb
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.DataLibrary.dll
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.Base.pdb
+/MyFirCorPro.Web/bin/Debug/netcoreapp1.0/MyFirCorPro.Base.dll
