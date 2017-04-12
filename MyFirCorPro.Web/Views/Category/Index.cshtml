@@ -1,0 +1,12 @@
+﻿@model MyFirCorPro.Base.Category
+@{
+    ViewData["Title"] = Model.Name;
+}
+<h2>@Model.Name</h2>
+<div>
+    <ul>
+        <li>
+            @Html.DisplayFor(m=>m.Name)
+        </li>
+    </ul>
+</div>
