@@ -24,7 +24,7 @@ namespace MyFirCorPro.Web.Controllers
         {
             var category = _categoryService.Find(id);
             if (category == null)
-                return View("Error");
+                return View("Error", new Models.Error { Title = "错误", Name = "为空", Description = "描述" });
             return View(category);
         }
     }
