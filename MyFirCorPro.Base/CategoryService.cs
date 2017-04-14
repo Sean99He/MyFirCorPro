@@ -24,7 +24,7 @@ namespace MyFirCorPro.Base
         /// <returns></returns>
         public Category Find(int id)
         {
-            return _baseRepository.Find(id);
+            return _baseRepository.Find(new string[] { "General", "Page", "Link" }, m => m.CategoryId == id);
         }
     }
 }
