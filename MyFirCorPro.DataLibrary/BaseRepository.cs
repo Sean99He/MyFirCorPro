@@ -13,7 +13,7 @@ namespace MyFirCorPro.DataLibrary
     /// <typeparam name="T"></typeparam>
     public class BaseRepository<T> where T : class
     {
-        private DbContext _dbContext;
+        public DbContext _dbContext;
         public BaseRepository(DbContext dbContext)
         {
             _dbContext = dbContext;

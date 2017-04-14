@@ -4269,6 +4269,7 @@
         "framework": ".NETStandard,Version=v1.6",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "1.1.1",
+          "MyFirCorPro.Models": "1.0.0",
           "NETStandard.Library": "1.6.1"
         },
         "compile": {
@@ -4276,6 +4277,20 @@
         },
         "runtime": {
           "netstandard1.6/MyFirCorPro.DataLibrary.dll": {}
+        }
+      },
+      "MyFirCorPro.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.6",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "1.1.1",
+          "NETStandard.Library": "1.6.0"
+        },
+        "compile": {
+          "netstandard1.6/MyFirCorPro.Models.dll": {}
+        },
+        "runtime": {
+          "netstandard1.6/MyFirCorPro.Models.dll": {}
         }
       }
     }
@@ -10880,6 +10895,11 @@
       "type": "project",
       "path": "../MyFirCorPro.DataLibrary/project.json",
       "msbuildProject": "../MyFirCorPro.DataLibrary/MyFirCorPro.DataLibrary.xproj"
+    },
+    "MyFirCorPro.Models/1.0.0": {
+      "type": "project",
+      "path": "../MyFirCorPro.Models/project.json",
+      "msbuildProject": "../MyFirCorPro.Models/MyFirCorPro.Models.xproj"
     }
   },
   "projectFileDependencyGroups": {
