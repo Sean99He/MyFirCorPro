@@ -54,14 +54,14 @@ namespace MyFirCorPro.Base
         /// <summary>
         /// 常规栏目
         /// </summary>
-        public virtual CategoryGeneral CategoryGeneral { get; set; }
+        public virtual CategoryGeneral General { get; set; }
         /// <summary>
         /// 单页栏目
         /// </summary>
-        public virtual CategoryPage CategoryPage { get; set; }
+        public virtual CategoryPage Page { get; set; }
         /// <summary>
         /// 连接栏目
         /// </summary>
-        public virtual CategoryLink CategoryLink { get; set; }
+        public virtual CategoryLink Link { get; set; }
     }
 }
