@@ -1449,6 +1449,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.6",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0"
+        },
+        "compile": {
+          "netstandard1.6/MyFirCorPro.InterfaceDataLibrary.dll": {}
+        },
+        "runtime": {
+          "netstandard1.6/MyFirCorPro.InterfaceDataLibrary.dll": {}
+        }
+      },
       "MyFirCorPro.Models/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.6",
@@ -4943,6 +4956,11 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
+    "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyFirCorPro.InterfaceDataLibrary/project.json",
+      "msbuildProject": "../MyFirCorPro.InterfaceDataLibrary/MyFirCorPro.InterfaceDataLibrary.xproj"
+    },
     "MyFirCorPro.Models/1.0.0": {
       "type": "project",
       "path": "../MyFirCorPro.Models/project.json",
@@ -4952,6 +4970,7 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.EntityFrameworkCore >= 1.1.1",
+      "MyFirCorPro.InterfaceDataLibrary >= 1.0.0-*",
       "MyFirCorPro.Models >= 1.0.0-*",
       "NETStandard.Library >= 1.6.1"
     ],

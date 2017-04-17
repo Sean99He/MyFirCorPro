@@ -3265,6 +3265,7 @@
       "MyFirCorPro.Base/1.0.0": {
         "dependencies": {
           "MyFirCorPro.DataLibrary": "1.0.0",
+          "MyFirCorPro.InterfaceDataLibrary": "1.0.0",
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
@@ -3277,6 +3278,7 @@
       "MyFirCorPro.DataLibrary/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "1.1.1",
+          "MyFirCorPro.InterfaceDataLibrary": "1.0.0",
           "MyFirCorPro.Models": "1.0.0",
           "NETStandard.Library": "1.6.1"
         },
@@ -3285,6 +3287,17 @@
         },
         "compile": {
           "MyFirCorPro.DataLibrary.dll": {}
+        }
+      },
+      "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "runtime": {
+          "MyFirCorPro.InterfaceDataLibrary.dll": {}
+        },
+        "compile": {
+          "MyFirCorPro.InterfaceDataLibrary.dll": {}
         }
       },
       "MyFirCorPro.Models/1.0.0": {
@@ -4846,6 +4859,11 @@
       "sha512": ""
     },
     "MyFirCorPro.DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

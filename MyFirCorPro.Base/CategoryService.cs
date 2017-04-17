@@ -1,9 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MyFirCorPro.DataLibrary;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using MyFirCorPro.InterfaceDataLibrary;
 
 namespace MyFirCorPro.Base
 {
@@ -12,10 +9,10 @@ namespace MyFirCorPro.Base
     /// </summary>
     public class CategoryService
     {
-        private BaseRepository<Category> _baseRepository;
-        public CategoryService(DbContext dbContext)
+        private InterfaceBaseRepository<Category> _baseRepository;
+        public CategoryService(InterfaceBaseRepository<Category> baseRepository)
         {
-            _baseRepository = new BaseRepository<Category>(dbContext);
+            _baseRepository = baseRepository;
         }
         /// <summary>
         /// 查找
@@ -24,7 +21,7 @@ namespace MyFirCorPro.Base
         /// <returns></returns>
         public Category Find(int id)
         {
-            return _baseRepository.Find(new string[] { "General", "Page", "Link" }, m => m.CategoryId == id);
+            return _baseRepository.Find(m => m.CategoryId == id);
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MyFirCorPro.InterfaceDataLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace MyFirCorPro.DataLibrary
     /// 仓储基类
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public class BaseRepository<T> where T : class
+    public class BaseRepository<T> : InterfaceBaseRepository<T> where T : class
     {
         public DbContext _dbContext;
         public BaseRepository(DbContext dbContext)

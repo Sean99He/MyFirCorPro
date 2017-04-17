@@ -19,8 +19,8 @@ namespace MyFirCorPro.Web.Areas.System.Controllers
         private CategoryService _categoryService;
         public CategoryController(MyFirCorProDbContext dbContext)
         {
-            _dbContext = dbContext;
-            _categoryService = new CategoryService(dbContext);
+            //_dbContext = dbContext;
+            //_categoryService = new CategoryService(dbContext);
         }
         // GET: /<controller>/
         public IActionResult Index()

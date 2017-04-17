@@ -69,6 +69,7 @@
 -r:"C:\Users\HBD\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\HBD\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\HBD\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
+-r:"E:\MyFirCorPro\MyFirCorPro.InterfaceDataLibrary\bin\Debug\netstandard1.6\MyFirCorPro.InterfaceDataLibrary.dll"
 -r:"E:\MyFirCorPro\MyFirCorPro.Models\bin\Debug\netstandard1.6\MyFirCorPro.Models.dll"
 "E:\MyFirCorPro\MyFirCorPro.DataLibrary\BaseRepository.cs"
 "E:\MyFirCorPro\MyFirCorPro.DataLibrary\CategoryRepository.cs"

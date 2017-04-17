@@ -15,8 +15,8 @@ namespace MyFirCorPro.Web.Controllers
         private CategoryService _categoryService;
         public CategoryController(MyFirCorProDbContext dbContext)
         {
-            _dbContext = dbContext;
-            _categoryService = new CategoryService(dbContext);
+            //_dbContext = dbContext;
+            //_categoryService = new CategoryService(dbContext);
         }
         // GET: /<controller>/
         [Route("/Category/{id:int}")]

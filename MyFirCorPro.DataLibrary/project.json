@@ -3,6 +3,7 @@
 
   "dependencies": {
     "Microsoft.EntityFrameworkCore": "1.1.1",
+    "MyFirCorPro.InterfaceDataLibrary": "1.0.0-*",
     "MyFirCorPro.Models": "1.0.0-*",
     "NETStandard.Library": "1.6.1"
   },

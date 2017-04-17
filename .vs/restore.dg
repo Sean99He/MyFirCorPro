@@ -1,9 +1,11 @@
-#:E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj
-E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj|E:\MyFirCorPro\MyFirCorPro.Models\MyFirCorPro.Models.xproj
 #:E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj
+E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj|E:\MyFirCorPro\MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.xproj
 E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj|E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj
+E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj|E:\MyFirCorPro\MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.xproj
 E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj|E:\MyFirCorPro\MyFirCorPro.Models\MyFirCorPro.Models.xproj
 #:E:\MyFirCorPro\MyFirCorPro.Web\MyFirCorPro.Web.xproj
 E:\MyFirCorPro\MyFirCorPro.Web\MyFirCorPro.Web.xproj|E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj
+E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj|E:\MyFirCorPro\MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.xproj
 E:\MyFirCorPro\MyFirCorPro.Base\MyFirCorPro.Base.xproj|E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj
+E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj|E:\MyFirCorPro\MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.xproj
 E:\MyFirCorPro\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj|E:\MyFirCorPro\MyFirCorPro.Models\MyFirCorPro.Models.xproj

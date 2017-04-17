@@ -10,6 +10,7 @@
       "MyFirCorPro.DataLibrary/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "1.1.1",
+          "MyFirCorPro.InterfaceDataLibrary": "1.0.0",
           "MyFirCorPro.Models": "1.0.0",
           "NETStandard.Library": "1.6.1"
         },
@@ -943,6 +944,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "runtime": {
+          "MyFirCorPro.InterfaceDataLibrary.dll": {}
+        }
+      },
       "MyFirCorPro.Models/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "1.1.1",
@@ -1404,6 +1413,11 @@
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ=="
+    },
+    "MyFirCorPro.InterfaceDataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MyFirCorPro.Models/1.0.0": {
       "type": "project",
