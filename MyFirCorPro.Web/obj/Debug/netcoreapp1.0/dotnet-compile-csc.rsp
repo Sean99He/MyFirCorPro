@@ -204,6 +204,7 @@
 -r:"C:\Users\HBD\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
 -r:"E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Base.dll"
 -r:"E:\MyFirCorPro\MyFirCorPro.DataLibrary\bin\Debug\netstandard1.6\MyFirCorPro.DataLibrary.dll"
+-r:"E:\MyFirCorPro\MyFirCorPro.Models\bin\Debug\netstandard1.6\MyFirCorPro.Models.dll"
 -resource:"E:\MyFirCorPro\MyFirCorPro.Web\obj\Debug\netcoreapp1.0\MyFirCorPro.Webdotnet-compile.deps.json",MyFirCorPro.Web.deps.json
 "E:\MyFirCorPro\MyFirCorPro.Web\MyFirCorProDbContext.cs"
 "E:\MyFirCorPro\MyFirCorPro.Web\Program.cs"
