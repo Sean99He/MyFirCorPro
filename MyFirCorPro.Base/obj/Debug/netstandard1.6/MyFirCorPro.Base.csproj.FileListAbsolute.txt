@@ -1,0 +1,13 @@
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Base.deps.json
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Base.dll
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Base.pdb
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.DataLibrary.dll
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.InterfaceDataLibrary.dll
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Models.dll
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.DataLibrary.pdb
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.InterfaceDataLibrary.pdb
+E:\MyFirCorPro\MyFirCorPro.Base\bin\Debug\netstandard1.6\MyFirCorPro.Models.pdb
+E:\MyFirCorPro\MyFirCorPro.Base\obj\Debug\netstandard1.6\MyFirCorPro.Base.csprojResolveAssemblyReference.cache
+E:\MyFirCorPro\MyFirCorPro.Base\obj\Debug\netstandard1.6\MyFirCorPro.Base.AssemblyInfo.cs
+E:\MyFirCorPro\MyFirCorPro.Base\obj\Debug\netstandard1.6\MyFirCorPro.Base.dll
+E:\MyFirCorPro\MyFirCorPro.Base\obj\Debug\netstandard1.6\MyFirCorPro.Base.pdb

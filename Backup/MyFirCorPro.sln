@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.3
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirCorPro.Web", "MyFirCorPro.Web\MyFirCorPro.Web.csproj", "{1CCCDF0A-3260-4779-B017-6ADBAD9917A6}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyFirCorPro.Web", "MyFirCorPro.Web\MyFirCorPro.Web.xproj", "{1CCCDF0A-3260-4779-B017-6ADBAD9917A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirCorPro.Base", "MyFirCorPro.Base\MyFirCorPro.Base.csproj", "{71563BC1-4403-4E2B-A4A5-A116685A4929}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyFirCorPro.Base", "MyFirCorPro.Base\MyFirCorPro.Base.xproj", "{71563BC1-4403-4E2B-A4A5-A116685A4929}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirCorPro.DataLibrary", "MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.csproj", "{3A7B6D84-55E5-4B03-BA43-E162370BF994}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyFirCorPro.DataLibrary", "MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.xproj", "{3A7B6D84-55E5-4B03-BA43-E162370BF994}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirCorPro.Models", "MyFirCorPro.Models\MyFirCorPro.Models.csproj", "{984A479B-5A8C-4645-BB37-FC935E8E12B4}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyFirCorPro.Models", "MyFirCorPro.Models\MyFirCorPro.Models.xproj", "{984A479B-5A8C-4645-BB37-FC935E8E12B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirCorPro.InterfaceDataLibrary", "MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.csproj", "{6279D5E4-353E-48EE-872E-86F2FACAEC49}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyFirCorPro.InterfaceDataLibrary", "MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.xproj", "{6279D5E4-353E-48EE-872E-86F2FACAEC49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

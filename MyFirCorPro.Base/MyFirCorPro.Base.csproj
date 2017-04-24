@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <AssemblyName>MyFirCorPro.Base</AssemblyName>
+    <PackageId>MyFirCorPro.Base</PackageId>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyFirCorPro.DataLibrary\MyFirCorPro.DataLibrary.csproj" />
+    <ProjectReference Include="..\MyFirCorPro.InterfaceDataLibrary\MyFirCorPro.InterfaceDataLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
